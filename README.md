@@ -1,4 +1,4 @@
-# Predict-Amazone-Delivery-Time
+# Predict-Amazon-Delivery-Time
 
 
 ### Please install XGBOOST
